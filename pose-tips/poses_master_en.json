@@ -1,0 +1,4110 @@
+{
+  "version": 1,
+  "count": 120,
+  "poses": [
+    {
+      "id": "female_solo_01",
+      "name": "Classic 45° Slim Stand",
+      "description": "Body rotated forty-five degrees from frontal. All weight on the rear leg; front knee bent with toe forward, creating an S-curve through hip and rib cage. One hand on the hip or outer thigh, elbow out; other arm hangs away from the torso. Head tilted toward the viewer; chin slightly forward and down.",
+      "tags": [
+        "Slimming",
+        "Longer-looking legs",
+        "Full Body",
+        "Side View",
+        "Standing",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Turn 45°—do not face straight on",
+        "Weight on rear foot",
+        "Front foot lightly down, knee soft",
+        "Hips pushed slightly back",
+        "Shoulders relaxed, slightly forward",
+        "Head tilted, chin slightly in"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle for longer-looking legs",
+        "framing": "Full or half body",
+        "lens": "~50mm for a natural look",
+        "lighting": "Side light for dimension"
+      },
+      "common_mistakes": [
+        "Facing the camera straight on makes the body appear wider",
+        "Arms pressed against the body appear wider",
+        "Even weight—no curve"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_01.webp"
+    },
+    {
+      "id": "female_solo_02",
+      "name": "S-Curve Twist Pose",
+      "description": "Profile hips aimed sideways; chest and shoulders counter-twisted toward the viewer, forming a clear S-line. Rear leg loaded; front knee bent forward. One hand on the waist with elbow flared; other arm down or near the jaw. Head inclined; neck long.",
+      "tags": [
+        "Slimming",
+        "S-Curve",
+        "Full Body",
+        "Side View",
+        "Standing",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hips angled to one side",
+        "Twist chest and shoulders toward camera",
+        "Create a clear S-curve",
+        "One hand on hip, elbow out",
+        "Other hand relaxed or touching the hair",
+        "Weight on rear foot, front leg forward"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50-85mm",
+        "lighting": "Side light to emphasize waistline"
+      },
+      "common_mistakes": [
+        "Upper and lower body same direction—no S-curve",
+        "Elbow tucked in on hip",
+        "Body too straight"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_02.webp"
+    },
+    {
+      "id": "female_solo_03",
+      "name": "Walking Forward Dynamic",
+      "description": "Mid-stride forward with front leg crossing slightly inward. Torso twisted toward the viewer; arms swing naturally or one hand rests at the outer thigh. Chest open; shoulders down; head turned on the neck toward the front.",
+      "tags": [
+        "Longer-looking legs",
+        "Full Body",
+        "Standing",
+        "Side View",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Walk slowly forward",
+        "Front leg steps lightly or crosses",
+        "Twist slightly toward camera",
+        "One hand lightly lifts skirt hem",
+        "Chin up, chest open, shoulders down",
+        "Burst to capture stride"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle, follow the action",
+        "framing": "Full body",
+        "lens": "35-70mm",
+        "lighting": "Outdoor natural light"
+      },
+      "common_mistakes": [
+        "Steps too large—not graceful",
+        "Looking down at feet",
+        "Passersby distract"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_03.webp"
+    },
+    {
+      "id": "female_solo_04",
+      "name": "Seated Crossed Legs",
+      "description": "Seated with legs crossed, top ankle over the lower shin, top knee forward. Trunk leaned forward or twisted sideways. Hands on the upper knee or one elbow propping the jaw. Spine tall; shoulders relaxed; head tilted.",
+      "tags": [
+        "Slimming",
+        "Longer-looking legs",
+        "Sitting",
+        "Side View",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Cross legs elegantly, top leg forward",
+        "Upper body slightly forward or twisted",
+        "Hands on knees or supporting chin",
+        "Back straight, shoulders down",
+        "Head tilted, smiling",
+        "Slimmer-looking legs and waist"
+      ],
+      "camera_tips": {
+        "angle": "Eye level or slightly low",
+        "framing": "Full body or three-quarter",
+        "lens": "50mm",
+        "lighting": "Soft window light"
+      },
+      "common_mistakes": [
+        "Legs crossed too tightly appear wider",
+        "Slouched back",
+        "Skirt wrinkles not smoothed"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_04.webp"
+    },
+    {
+      "id": "female_solo_05",
+      "name": "Arms Overhead Stretch",
+      "description": "Standing with both arms overhead, wrists loose, elbows beside the ears. Weight on one bent leg; other leg soft with toe down. Torso in three-quarter twist; rib cage lifted; head back or turned on the neck.",
+      "tags": [
+        "Longer-looking legs",
+        "Full Body",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Both arms overhead in a light stretch",
+        "Wrists relaxed",
+        "One bent leg bears weight, other toe down",
+        "Twist the body 45°",
+        "Chest naturally open",
+        "Head slightly back or turned"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Bright even light"
+      },
+      "common_mistakes": [
+        "Shrugging shoulders",
+        "Arms not fully extended",
+        "Expression too forced"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_05.webp"
+    },
+    {
+      "id": "female_solo_06",
+      "name": "Over-the-Shoulder Look",
+      "description": "Back or strong profile to the viewer; head rotated over the shoulder toward front. One hand on the opposite shoulder or in the hair; other on hip or outer thigh. Waist twisted; weight on front or rear foot; shoulder line dropped.",
+      "tags": [
+        "Slimming",
+        "Back View",
+        "Side View",
+        "Half Body",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Back or profile to camera",
+        "Look over shoulder at camera",
+        "One hand on shoulder or in hair",
+        "Other hand on waist or hip",
+        "Body lightly twisted",
+        "Mysterious or smiling eyes"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body or three-quarter",
+        "lens": "85mm",
+        "lighting": "Rim light or side light"
+      },
+      "common_mistakes": [
+        "Turning the head too far makes the neck look thicker",
+        "No curve in back",
+        "Hair covering face"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_06.webp"
+    },
+    {
+      "id": "female_solo_07",
+      "name": "Elegant Squat",
+      "description": "Low squat or crouch with one knee forward, heel down or lifted. Hands on knees or one palm near the ground; opposite elbow bent supporting the jaw. Spine angled forward from the hips; head raised; neck extended.",
+      "tags": [
+        "Longer-looking legs",
+        "Squat",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Half squat or graceful full squat",
+        "One leg extended forward",
+        "Hands on knees or supporting face",
+        "Back straight, slight forward lean",
+        "Head lifted toward camera",
+        "Avoid flattening the legs toward the camera"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Squat too low—looks short",
+        "Knees pointed at the camera appear wider",
+        "Wardrobe not checked before shooting"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_07.webp"
+    },
+    {
+      "id": "female_solo_08",
+      "name": "Arched Back Lying Pose",
+      "description": "Supine with upper back arched off the surface, pelvis grounded. Knees bent and stacked or legs extended. One forearm on the abdomen or in the hair; other arm relaxed. Head lifted slightly on the neck.",
+      "tags": [
+        "Slimming",
+        "Lying",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Arch back slightly for curves",
+        "Legs bent and stacked or extended",
+        "One hand on the abdomen or in the hair",
+        "Chin up, eyes on camera",
+        "Relaxed, sweet expression",
+        "Ensure flat ground"
+      ],
+      "camera_tips": {
+        "angle": "High angle or side angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Soft diffused light"
+      },
+      "common_mistakes": [
+        "Flat on back—no curves",
+        "Angle creates double chin",
+        "Cluttered background"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_08.webp"
+    },
+    {
+      "id": "female_solo_09",
+      "name": "Single-Leg Balance",
+      "description": "Single-leg balance on one straight ankle; opposite leg bent with toe touching the floor or calf lifted. Torso in three-quarter twist; arms at sides or one raised. Head tipped; spine vertical over the standing foot.",
+      "tags": [
+        "Longer-looking legs",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "One foot planted, other bent with toe down",
+        "Body lightly twisted 45°",
+        "Arms natural or slightly raised",
+        "Maintain balance",
+        "Tilt the head slightly",
+        "Elegant, elongated look"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Unsteady balance",
+        "Supporting leg not straight",
+        "Leg raised too high—unnatural"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_09.webp"
+    },
+    {
+      "id": "female_solo_10",
+      "name": "Elegant Kneeling",
+      "description": "One or both knees on the ground; torso upright or leaning forward. One palm on the thigh; other hand near the jaw or flat on the floor. Head lifted; shoulders back; hips over the knees.",
+      "tags": [
+        "Longer-looking legs",
+        "Kneeling",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "One or both knees down",
+        "Torso upright or slightly forward",
+        "One hand on knee, other supports face",
+        "Head up, smiling",
+        "Protect knees",
+        "Longer-looking legs and an elegant line"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Kneeling too low",
+        "Slouched back",
+        "Hard ground uncomfortable"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_10.webp"
+    },
+    {
+      "id": "female_solo_11",
+      "name": "Seated Legs Extended",
+      "description": "Seated on the ground with legs extended forward or crossed at the ankles. One palm flat behind the hips; opposite hand under the chin. Spine straight; shoulders low; head aligned over the chest.",
+      "tags": [
+        "Longer-looking legs",
+        "Sitting",
+        "Full Body",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Sit on ground, legs extended or crossed",
+        "One hand on the ground",
+        "Other hand supports chin or rests on knee",
+        "Back straight",
+        "Tilt the head slightly",
+        "Longer-looking legs"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Legs not extended, making them appear shorter",
+        "Slumped seated posture",
+        "Dirty ground surface"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_11.webp"
+    },
+    {
+      "id": "female_solo_12",
+      "name": "Arched Back on Ground",
+      "description": "Supine with lumbar arch lifted, shoulder blades light on the surface. Knees bent and stacked; one hand on the abdomen. Head raised a few inches; chin toward the sternum.",
+      "tags": [
+        "Slimming",
+        "Lying",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Lie with back slightly arched",
+        "Knees bent and stacked",
+        "Place one hand on the abdomen",
+        "Chin slightly up",
+        "Relaxed expression",
+        "Show curves"
+      ],
+      "camera_tips": {
+        "angle": "Side angle or slightly above",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Completely flat on back",
+        "Clothes bunched up",
+        "Background messy"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_12.webp"
+    },
+    {
+      "id": "female_solo_13",
+      "name": "Hands at Chest Stand",
+      "description": "Hands overlapped at the upper chest with elbows open, or forearms crossed loosely. Three-quarter stance; weight on the rear foot; front knee bent. Hips shifted back; head tilted toward the forward shoulder.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Half Body",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hands lightly on chest or crossed",
+        "Arms open away from body",
+        "Angle the body 45°",
+        "Weight on rear foot",
+        "Relax shoulders",
+        "Elegant smile"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Arms tight to chest look bulky",
+        "Facing straight at camera",
+        "Hand blocks too much face"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_13.webp"
+    },
+    {
+      "id": "female_solo_14",
+      "name": "Hair Flip",
+      "description": "Head rotated quickly so hair sweeps to one side; shoulders follow the twist. One hand at the nape or temple; other arm mid-swing. Hips counter-turned; weight on the balls of the feet.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Lightly toss hair with head",
+        "Twist the body 45°",
+        "One hand in hair or swinging naturally",
+        "Burst to capture motion",
+        "Keep the expression natural",
+        "Works best with long hair"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Half or full body",
+        "lens": "50-85mm, shutter 1/250+",
+        "lighting": "Backlight or side-back light"
+      },
+      "common_mistakes": [
+        "Hair whip covers eyes",
+        "Grimacing expression",
+        "Background too busy"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_14.webp"
+    },
+    {
+      "id": "female_solo_15",
+      "name": "One Hand on Hip",
+      "description": "One hand on the hip, elbow pointed outward. Torso twisted forty-five degrees; front leg bent, rear leg straight. Opposite arm relaxed; pelvis pushed slightly back; head over the front foot.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "One hand on hip, elbow out",
+        "Twist the body 45°",
+        "Front knee bent",
+        "Keep the other arm relaxed",
+        "Confident expression",
+        "Slimmer-looking waist"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Side light"
+      },
+      "common_mistakes": [
+        "Elbow tucked in",
+        "Body too straight",
+        "Hand on hip too high"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_15.webp"
+    },
+    {
+      "id": "female_solo_16",
+      "name": "Finger Heart",
+      "description": "Hands curved beside the jaw in a heart shape, elbows wide. Three-quarter body angle; shoulders relaxed; weight on the back leg with front toe forward.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Heart gesture beside cheek",
+        "Twist the body and smile",
+        "Fingers relaxed, not stiff",
+        "Eyes on camera",
+        "Cute expression",
+        "Optional wink"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Bright soft light"
+      },
+      "common_mistakes": [
+        "Heart gesture too big, blocks face",
+        "Over-acted expression",
+        "Hand shake causes blur"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_16.webp"
+    },
+    {
+      "id": "female_solo_17",
+      "name": "Arms Wrapped Around Self",
+      "description": "Arms wrapped loosely around the ribs without squeezing, forearms parallel to the ground. Gentle twist at the waist; one knee bent. Head lowered toward the crossed arms or level.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Arms loosely wrapped around self",
+        "Arms not tight—leave space",
+        "Body slightly twisted",
+        "One leg bent",
+        "Gentle expression",
+        "Slimming and soft"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Soft warm light"
+      },
+      "common_mistakes": [
+        "Hug too tight looks bulky",
+        "Shrugging shoulders",
+        "Empty gaze"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_17.webp"
+    },
+    {
+      "id": "female_solo_18",
+      "name": "Rain Umbrella Pose",
+      "description": "Three-quarter stance with one arm raised overhead, elbow bent, hand gripping an imaginary vertical shaft at shoulder height outside the body. Torso twisted; free hand in the hair; weight on the rear leg.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hold an umbrella in a side stance",
+        "Twist the body 45°",
+        "One hand on umbrella handle or in hair",
+        "Keep canopy from hiding face",
+        "Romantic expression",
+        "Match umbrella color to scene"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Overcast or soft light works best"
+      },
+      "common_mistakes": [
+        "Umbrella covers face",
+        "Umbrella handle blocks lens",
+        "Wind/rain too strong"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_18.webp"
+    },
+    {
+      "id": "female_solo_19",
+      "name": "Glasses Pulled Down",
+      "description": "Three-quarter turn; one hand lifts frames at the upper cheeks as if lowering eyewear. Fingers spread along the brow; other arm at the hip. Chin slightly down; neck long.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lightly pull glasses down, eyes on camera",
+        "Angle the body 45°",
+        "One hand on glasses",
+        "Playful eyes",
+        "Slight smile",
+        "Cute and slimming"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Avoid lens glare"
+      },
+      "common_mistakes": [
+        "Lens glare",
+        "Pulled too low, blocks eyes",
+        "Too serious"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_19.webp"
+    },
+    {
+      "id": "female_solo_20",
+      "name": "Peek Through Fingers",
+      "description": "One palm horizontal across the eyes, fingers parted; torso twisted sideways. Other arm along the waist; weight on the back leg; front knee soft. Head turned toward the gaps between the fingers.",
+      "tags": [
+        "Slimmer-looking face",
+        "Half Body",
+        "Side View",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "One hand lightly covers eyes",
+        "Peek through fingers at camera",
+        "Twist the body and smile",
+        "Keep the other arm relaxed",
+        "Playful and cute",
+        "Slimmer-looking face"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Fully covered—eyes not visible",
+        "Too many fingers block face",
+        "Body facing straight on"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_20.webp"
+    },
+    {
+      "id": "female_solo_21",
+      "name": "Flower Frame",
+      "description": "Both arms curved in front of the torso as if encircling a bouquet at waist height, elbows out. Hips rotated forty-five degrees; one leg forward; head inclined over the hands.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hold bouquet or flower wreath",
+        "Do not let flowers fully hide face",
+        "Light twist, smiling",
+        "One arm around flowers, other natural",
+        "Soft, graceful mood",
+        "Use fresh flowers"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half or full body",
+        "lens": "50-85mm",
+        "lighting": "Natural light or soft light"
+      },
+      "common_mistakes": [
+        "Flowers cover face",
+        "Bouquet too large, dominates frame",
+        "Expression mismatches flowers"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_21.webp"
+    },
+    {
+      "id": "female_solo_22",
+      "name": "Blowing a Kiss",
+      "description": "One hand at the mouth, fingers gathered as if blowing outward. Upper body leaned forward from the hips; opposite arm behind the back or on the hip. Weight on the front foot.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hand at mouth, blowing kiss",
+        "Lean forward, smiling",
+        "Eyes on camera",
+        "Keep the other arm relaxed",
+        "Lively and cute",
+        "Lips slightly pursed"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Pout is too exaggerated",
+        "Hand covers too much of mouth",
+        "Lean back"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_22.webp"
+    },
+    {
+      "id": "female_solo_23",
+      "name": "Side-Lying, Hand Props Head",
+      "description": "Side-lying with head propped on one bent arm, elbow on the ground. Legs stacked and bent at the knees, top hip slightly back. Free hand on the upper thigh; spine in a gentle C-curve.",
+      "tags": [
+        "Slimming",
+        "Lying",
+        "Side View",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Side-lying, one hand props head",
+        "Legs bent and stacked elegantly",
+        "Body forms a curve",
+        "Eyes on camera",
+        "Relaxed expression",
+        "Smooth the bedding"
+      ],
+      "camera_tips": {
+        "angle": "Level with head or slightly above",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Soft side light"
+      },
+      "common_mistakes": [
+        "Full side-lying looks flat",
+        "Propping head compresses face",
+        "Cluttered background"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_23.webp"
+    },
+    {
+      "id": "female_solo_24",
+      "name": "Hem Lift",
+      "description": "Both hands pinch the lower hem on one side, elbows bent outward. Waist exposed by the lift; torso twisted forty-five degrees. Legs staggered; weight on the rear ankle.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lightly lift hem to show waistline",
+        "Twist the body 45°",
+        "One hand lifts hem, other natural",
+        "Do not lift too high",
+        "Slimmer waistline, fashion-forward",
+        "Avoid wardrobe exposure"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Half or full body",
+        "lens": "50mm",
+        "lighting": "Side light to emphasize waistline"
+      },
+      "common_mistakes": [
+        "Lifted too high—inappropriate",
+        "Body facing straight on",
+        "Hand wrinkling clothes"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_24.webp"
+    },
+    {
+      "id": "female_solo_25",
+      "name": "Side Glance Smile",
+      "description": "Head turned so the gaze angles off-center while the nose stays forward. Torso frontal or three-quarter; shoulders even; arms at sides. Weight balanced; chin neutral.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Eyes angled slightly toward camera",
+        "Face forward or slight twist",
+        "Natural smile",
+        "Tilt the head slightly",
+        "Magnetic gaze",
+        "Relax facial muscles"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85-105mm",
+        "lighting": "Catchlight in eyes"
+      },
+      "common_mistakes": [
+        "Sideways look too extreme",
+        "No catchlight—flat eyes",
+        "Smile looks fake"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_25.webp"
+    },
+    {
+      "id": "female_solo_26",
+      "name": "Book or Prop Hold",
+      "description": "One forearm horizontal at mid-torso as if holding a flat object; other hand near the opposite elbow. Torso leaned ten degrees; three-quarter stance; head bowed toward the hands.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hold book or coffee cup",
+        "Lean to the side",
+        "Pose as if reading or tasting",
+        "Eyes on camera or prop",
+        "Intellectual elegance",
+        "Prop matches setting"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body or three-quarter",
+        "lens": "50-85mm",
+        "lighting": "Window light or warm café light"
+      },
+      "common_mistakes": [
+        "Prop blocks face",
+        "Posed movement looks fake",
+        "Background does not fit"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_26.webp"
+    },
+    {
+      "id": "female_solo_27",
+      "name": "V for Victory",
+      "description": "Fingers in a V shape beside the temple, elbow high. Torso twisted; the head faces forward with a slight tilt. Free hand on the hip; legs crossed at the ankle.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "V beside face or eye",
+        "Wink one eye",
+        "Body twisted sideways",
+        "Keep the other arm relaxed",
+        "Lively and cute",
+        "Keep the V gesture small"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "V blocks the eye",
+        "Wink too exaggerated",
+        "Unnatural expression"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_27.webp"
+    },
+    {
+      "id": "female_solo_28",
+      "name": "Hands Cupping Face",
+      "description": "Both palms cupping the cheeks, elbows wide and forward. Trunk leaned toward the viewer; knees soft. Head centered between the hands; neck straight.",
+      "tags": [
+        "Slimmer-looking face",
+        "Half Body",
+        "Side View",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lightly cup both cheeks",
+        "Do not press fingers hard",
+        "Eyes on camera",
+        "Lean forward",
+        "Soft and cute",
+        "Slimmer-looking face"
+      ],
+      "camera_tips": {
+        "angle": "Eye level, slightly above",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Cupping the face too hard distorts features",
+        "Angle creates double chin",
+        "Too many fingers in frame"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_28.webp"
+    },
+    {
+      "id": "female_solo_29",
+      "name": "Skirt Spin",
+      "description": "Mid-spin with arms lifted to the sides or hands wide at hip height pulling the silhouette outward on the spin. One foot pivots; torso twisted; hair arcs on the centrifugal path. Weight on the ball of the turning foot.",
+      "tags": [
+        "Slimming",
+        "Full Body",
+        "Standing",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Light spin so skirt flares",
+        "Hold skirt or arms spread",
+        "Burst; pick the best",
+        "Joyful expression",
+        "Watch your footing",
+        "Elegant motion"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm, shutter 1/500+",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Spin too fast—motion blur",
+        "Skirt covers face",
+        "Dizzy expression"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_29.webp"
+    },
+    {
+      "id": "female_solo_30",
+      "name": "Finger Gun Pose",
+      "description": "Index and thumb extended in a pointing gesture toward the viewer or sideways. Three-quarter stance; opposite hand on the hip; head tilted with one ear dropped.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Lively",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Finger gun toward camera",
+        "Wink",
+        "Body twisted sideways",
+        "Playful expression",
+        "Keep the other arm relaxed",
+        "Lively and slimming"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Finger gun too close",
+        "No wink—loses playfulness",
+        "Expression too fierce"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_30.webp"
+    },
+    {
+      "id": "female_solo_31",
+      "name": "Seated Knee Hug",
+      "description": "Seated with knees drawn to the chest, arms wrapped around the shins. Head resting on the knees or turned sideways along the thigh. Spine curled; feet flat or toes pointed.",
+      "tags": [
+        "Slimming",
+        "Sitting",
+        "Full Body",
+        "Female",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Seated Knee Hug",
+        "Rest head on knees or look sideways",
+        "Back can curve slightly",
+        "Soft and relaxed",
+        "Smooth the skirt",
+        "Keep the expression natural"
+      ],
+      "camera_tips": {
+        "angle": "Eye level or slightly above",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Hug too tight looks small",
+        "Knees toward camera",
+        "Ground not clean"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_31.webp"
+    },
+    {
+      "id": "female_solo_32",
+      "name": "Side Stance, Hand Behind Head",
+      "description": "Profile stance with one hand behind the head, elbow pointing up and back. Other arm hangs straight; hips under the shoulders; weight on the rear leg; front foot forward.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Full Body",
+        "Female"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand in profile",
+        "One hand lightly at back of head",
+        "Other arm hangs naturally",
+        "Angle the body 45°",
+        "Classic model pose",
+        "Relax shoulders"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50-85mm",
+        "lighting": "Side light"
+      },
+      "common_mistakes": [
+        "Hand flattening hair",
+        "Body too straight",
+        "Other hand has nowhere to go"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_32.webp"
+    },
+    {
+      "id": "female_solo_33",
+      "name": "On Toes, Reaching",
+      "description": "On tiptoe with both heels raised; one or both arms reaching upward or forward, fingers extended. Spine fully stretched; pelvis neutral; head aligned with the reaching arm.",
+      "tags": [
+        "Taller Look",
+        "Slimming",
+        "Full Body",
+        "Standing",
+        "Female"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Rise onto toes",
+        "Reach up or forward",
+        "Fully lengthen the body",
+        "Use the other hand for balance",
+        "Elegant expression",
+        "Look taller and slimmer"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Unsteady on toes",
+        "Arms reaching different directions",
+        "Body not extended"
+      ],
+      "category": "Female Solo",
+      "categoryId": "female_solo",
+      "image": "images/female_solo_33.webp"
+    },
+    {
+      "id": "couple_01",
+      "name": "Foreheads Touching",
+      "description": "Standing with fronts opposed, foreheads nearly touching, noses aligned. Arms looped around each other's waists or hands clasped at hip level. One torso rotated slightly forty-five degrees; the other leans back a few degrees. Feet parallel, weight even.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Face each other standing or leaning close",
+        "Foreheads gently touch",
+        "Arms around waists or holding hands",
+        "She can twist ~45°",
+        "Eyes closed or tender gaze",
+        "Create romantic mood"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Medium shot or close-up",
+        "lens": "85mm",
+        "lighting": "Soft light or backlight"
+      },
+      "common_mistakes": [
+        "Foreheads too far apart",
+        "Stiff expression",
+        "Cluttered background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_01.webp"
+    },
+    {
+      "id": "couple_02",
+      "name": "Back Hug from Him",
+      "description": "One partner behind the other, arms wrapped around the front waist, hands flat on the abdomen or crossed. Front partner's hands rest on the encircling forearms or rise to the jaw. Front hips twisted forty-five degrees; rear leg loaded, front knee bent.",
+      "tags": [
+        "Couple",
+        "Slimming",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He stands behind her",
+        "His arms wrap her waist from behind",
+        "Her hands on his arms or touching face",
+        "Her body slightly twisted 45°",
+        "She can look back at him",
+        "Both smiling naturally"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Hugging too tightly distorts body lines",
+        "She faces straight on, making the body appear wider",
+        "His face blocked"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_02.webp"
+    },
+    {
+      "id": "couple_03",
+      "name": "Princess Carry Spin",
+      "description": "One partner cradled horizontally in the other's arms, knees bent and calves lifted. The cradled partner wraps arms around the supporting partner's neck; supporting partner's legs braced wide. Bodies rotated slightly as if mid-turn; heads close.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "Stable princess carry",
+        "Her arms around his neck",
+        "Her legs softly bent",
+        "Eye contact or kiss",
+        "Gentle spin for motion",
+        "Stay safe; keep expressions natural"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Unstable hold",
+        "Her body stiff",
+        "No room in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_03.webp"
+    },
+    {
+      "id": "couple_04",
+      "name": "Hand-in-Hand Walk",
+      "description": "Walking side by side with interlaced hands at hip height. Inner shoulders closer; outer legs stride forward alternately. Rear partner half a step ahead; front partner head turned back over the shoulder.",
+      "tags": [
+        "Couple",
+        "Longer-looking legs",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Hold hands walking forward or sideways",
+        "She can glance back",
+        "She keeps 45° twist",
+        "Natural, matched stride",
+        "Easy, sweet expression",
+        "Use burst shooting"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle, follow the action",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Outdoor natural light"
+      },
+      "common_mistakes": [
+        "Steps not matched",
+        "Not looking at each other—no connection",
+        "She faces camera straight—looks wide"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_04.webp"
+    },
+    {
+      "id": "couple_05",
+      "name": "Piggyback",
+      "description": "The supporting partner bends forward; rider on the back with arms around the supporting partner's neck and legs wrapped at the supporting partner's hips. The supporting partner's hands support the rider's thighs under the knees; both torsos leaned slightly forward.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "She jumps on his back",
+        "Arms around his neck",
+        "Legs wrapped around his waist",
+        "He supports her legs",
+        "Both laughing",
+        "Stay safe"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "She is not holding on securely",
+        "He bends too much",
+        "Pained expression"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_05.webp"
+    },
+    {
+      "id": "couple_06",
+      "name": "Jumping Embrace",
+      "description": "Standing face to face with both feet off the ground in a small jump. Inner arms around necks or shoulders; rider's knees bent and feet behind the partner's calves. Chests pressed; heads close.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "Face each other, small jump together",
+        "Her legs slightly lifted",
+        "Arms around his shoulders or neck",
+        "Use burst shooting to catch the moment",
+        "Joyful laughing expression",
+        "Use 1/500 s or faster"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Plenty of light"
+      },
+      "common_mistakes": [
+        "Capturing the landing instead of the peak moment",
+        "Jump not high enough",
+        "Expressions out of sync"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_06.webp"
+    },
+    {
+      "id": "couple_07",
+      "name": "Chin Lift Kiss",
+      "description": "Standing face to face standing close. One hand cups under the other's jaw, lifting the chin. The lifted partner's torso three-quarter turned; free hand on the partner's chest or waist. Toes nearly touching.",
+      "tags": [
+        "Couple",
+        "Slimming",
+        "Half Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He lightly lifts her chin",
+        "Kiss or about to kiss",
+        "Her body twisted 45°",
+        "Her hand on his chest",
+        "Chin forward",
+        "Romantic close-up"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85-105mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Lifting chin too hard",
+        "Her face distorted from pressure",
+        "Angle shows double chin"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_07.webp"
+    },
+    {
+      "id": "couple_08",
+      "name": "Shoulder Lean, Heads Together",
+      "description": "Shoulder to shoulder with heads inclined so one temple rests on the other's shoulder. One arm draped over the partner's upper back; outer hands joined at thigh level. Feet parallel; weight relaxed.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand shoulder to shoulder, leaning close",
+        "Her head on his shoulder",
+        "Hold hands or his arm around her shoulder",
+        "Smile at camera or distance",
+        "Her body slightly twisted",
+        "Naturally sweet"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Height difference makes the shoulder lean awkward",
+        "Standing too far apart",
+        "Expressions not matched"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_08.webp"
+    },
+    {
+      "id": "couple_09",
+      "name": "Spin Dance Pose",
+      "description": "Joined hands at chest height; one partner pivots on the ball of the foot while the other anchors. The spinning partner's torso twisted forty-five degrees; free arm out for balance; hemlines flare on the turn.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "He gently spins her while holding hands",
+        "Her skirt flares",
+        "Twist the body 45°",
+        "Joyful expression",
+        "Burst; pick the best",
+        "Watch your footing"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm, shutter 1/250+",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Spin too fast—motion blur",
+        "Stepped on skirt",
+        "He does not lead the spin"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_09.webp"
+    },
+    {
+      "id": "couple_10",
+      "name": "Seated, She Leans on Him",
+      "description": "Seated together on a step or bench. One partner leans sideways into the other's chest; the other's arm around the waist or shoulders. Legs crossed or extended on the lower tread; heads stacked vertically.",
+      "tags": [
+        "Couple",
+        "Sitting",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Both sit on steps or ground",
+        "She leans on his chest or lap",
+        "His arms around her waist or shoulders",
+        "Her legs crossed",
+        "Body slightly twisted",
+        "Relaxed and warm"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body or three-quarter",
+        "lens": "35-50mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Leaning too close appears cramped",
+        "Seated poses uneven",
+        "Cluttered background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_10.webp"
+    },
+    {
+      "id": "couple_11",
+      "name": "She Sits on His Lap",
+      "description": "One seated with thighs horizontal; the other perched sideways across the lap, arms around the neck. The perched partner's legs crossed at the ankle; torsos twisted toward each other; feet off the ground on the seated side.",
+      "tags": [
+        "Couple",
+        "Sitting",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He sits; she side-sits on his lap",
+        "Her arms around his neck or shoulders",
+        "Her legs crossed",
+        "Twist for slimming effect",
+        "Intimate eye contact",
+        "Watch balance"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Warm indoor light"
+      },
+      "common_mistakes": [
+        "She looks unsteady while seated",
+        "He appears strained",
+        "Angle makes her look heavier"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_11.webp"
+    },
+    {
+      "id": "couple_12",
+      "name": "Face to Face Embrace",
+      "description": "Standing face to face with mutual waist embraces, elbows bent outward. Bodies inclined until noses nearly meet; feet staggered for balance. One spine slightly rotated; hips touching.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Face each other, arms around waists",
+        "Bodies close",
+        "Noses almost touching",
+        "Eye contact or eyes closed",
+        "She twists slightly",
+        "Romantic intimacy"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Too far—no intimacy",
+        "Serious expression",
+        "Hand placement awkward"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_12.webp"
+    },
+    {
+      "id": "couple_13",
+      "name": "Shoulder Carry",
+      "description": "One partner hoisted across the other's shoulders or high on the hip, torso diagonal. The lifted partner's hands on the supporting partner's shoulders or head; supporting partner grips the thigh or waist. Both people keep their cores engaged, legs split.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "He carries her carefully on his shoulder",
+        "She laughs, hands on his shoulders",
+        "Dynamic and fun",
+        "Stay safe",
+        "Playful expression",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Unstable carry",
+        "She looks scared",
+        "Unflattering angle"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_13.webp"
+    },
+    {
+      "id": "couple_14",
+      "name": "Back Hug Walk",
+      "description": "Back hug while walking forward. The rear partner's arms around the front waist; front partner's head turned over the shoulder. Matching stride length; front foot leads.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He hugs her waist from behind",
+        "Walk slowly together",
+        "She looks back smiling",
+        "Steps synchronized",
+        "Natural motion",
+        "Warm and slimming"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Hug too tight to walk",
+        "She does not look back—no interaction",
+        "Pedestrians in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_14.webp"
+    },
+    {
+      "id": "couple_15",
+      "name": "Lift High Pose",
+      "description": "One partner elevated overhead with arms extended up or out. The lifted partner's legs bent or straight; supporting partner's arms locked overhead; supporting partner's stance wide. Vertical alignment between the two centers of mass.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "He lifts her high",
+        "Her legs bent or straight",
+        "Arms spread or around his head",
+        "Cheerful expression",
+        "Stay safe",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Lift not high enough",
+        "She looks scared",
+        "He appears strained"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_15.webp"
+    },
+    {
+      "id": "couple_16",
+      "name": "Kiss Jump",
+      "description": "Both airborne in a shallow jump, mouths meeting at center height. Arms locked around waists; knees bent; toes pointed down. Torsos pressed; heads tilted to align.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "Small jump together while kissing",
+        "Arms around each other's waists",
+        "Use burst shooting",
+        "Emotionally engaged",
+        "Fast shutter speed",
+        "Full of energy"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Ample light"
+      },
+      "common_mistakes": [
+        "Missed kiss mid-jump",
+        "Capturing the landing instead of the peak moment",
+        "Unnatural expression"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_16.webp"
+    },
+    {
+      "id": "couple_17",
+      "name": "Windmill Arms",
+      "description": "Standing face to face holding both hands, arms crossed overhead in a windmill arc. Feet planted shoulder-width; torsos leaned back from the joined hands; elbows straight on the upswing.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Face each other holding hands",
+        "Swing arms like a windmill",
+        "Both laughing",
+        "Body relaxed",
+        "Dynamic interaction",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Arms not spread",
+        "Expressions out of sync",
+        "Background too close"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_17.webp"
+    },
+    {
+      "id": "couple_18",
+      "name": "Shoulder Sit Kiss",
+      "description": "One seated on the other's shoulders, thighs along the neck, ankles crossed in front of the chest. Seated torso folded down; hands on the supporting partner's head; supporting partner grips the calves.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "She sits on his shoulders",
+        "Lean down to kiss his head or cheek",
+        "He stands steady",
+        "Stay safe",
+        "Unique and fun",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Unsteady balance",
+        "He appears strained",
+        "Angle blocks face"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_18.webp"
+    },
+    {
+      "id": "couple_19",
+      "name": "Side-by-Side Kick",
+      "description": "Side by side with near legs kicked forward in unison, knees bent. Inner hands clasped or outer arms around waists. Upright torsos; heads turned toward each other.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Stand shoulder to shoulder",
+        "Kick one leg forward together",
+        "Hold hands or embrace",
+        "Lively expression",
+        "Use burst mode",
+        "Watch synchronization"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Kicks not synchronized",
+        "Kick too high—losing balance",
+        "Too serious"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_19.webp"
+    },
+    {
+      "id": "couple_20",
+      "name": "Lying Embrace",
+      "description": "Both supine on the ground, parallel or facing, heads toward each other. Hands interlaced at chest level or arms around shoulders. Knees bent or legs extended; shoulders on the surface.",
+      "tags": [
+        "Couple",
+        "Lying",
+        "Full Body",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lie side by side or face to face",
+        "Hold hands or embrace",
+        "Heads together",
+        "Relaxed expression",
+        "Watch your footing",
+        "Romantic"
+      ],
+      "camera_tips": {
+        "angle": "High angle or side angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Dirty ground",
+        "Double chin",
+        "Wrinkled clothes"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_20.webp"
+    },
+    {
+      "id": "couple_21",
+      "name": "Spin into Kiss",
+      "description": "End of a spin with bodies in embrace, one still holding the other's hand at arm's length. Torsos pressed; one foot on the toe for balance; skirts or hems flared outward.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "He spins her",
+        "Spin into embrace and kiss",
+        "Skirt in motion",
+        "Use burst mode",
+        "Dynamic romance",
+        "Allow enough space"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Spin blur",
+        "Missed the kiss",
+        "No room in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_21.webp"
+    },
+    {
+      "id": "couple_22",
+      "name": "Forehead Push Play",
+      "description": "Standing face to face at close range. One palm flat on the other's forehead, gentle push. Foreheads nearly touching; torsos upright; feet staggered.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He lightly pushes her forehead or nose",
+        "Face each other laughing",
+        "Stand face to face",
+        "Intimate and playful",
+        "Keep the expression natural",
+        "Use a medium shot"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Push too hard",
+        "Unnatural expression",
+        "Too far apart"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_22.webp"
+    },
+    {
+      "id": "couple_23",
+      "name": "Back Embrace, Soft Kiss",
+      "description": "Rear partner's head at the front partner's neck side; front head tilted exposing the neck line. The front partner's hand rises to the rear partner's head; rear arms around the waist.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He kisses her neck from behind",
+        "She smiles, head tilted",
+        "Her hand lightly on his head",
+        "Warm romance",
+        "Her body relaxed",
+        "Side light"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body or close-up",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Arms too tight—appears stiff",
+        "His face blocked",
+        "Kiss placement awkward"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_23.webp"
+    },
+    {
+      "id": "couple_24",
+      "name": "Toast and Eye Contact",
+      "description": "Facing each other with forearms raised, hands meeting at chest height as if clinking invisible cups. Elbows bent; trunks leaned inward; feet parallel.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Both raise glasses or a small prop",
+        "Eye contact or light touch",
+        "Bodies close",
+        "Party vibe",
+        "Prop fits the scene",
+        "Natural smile"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "50mm",
+        "lighting": "Warm light"
+      },
+      "common_mistakes": [
+        "Glass blocks face",
+        "Prop does not match scene",
+        "Too posed"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_24.webp"
+    },
+    {
+      "id": "couple_25",
+      "name": "Chase Run",
+      "description": "Running chase with one partner ahead, torso turned back. Rear partner reaches forward; hands may almost touch. Stride elongated; arms pumping.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "He lightly chases or runs holding hands",
+        "She looks back laughing",
+        "Use burst shooting for motion",
+        "Natural stride",
+        "Full of energy",
+        "Choose open background"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Outdoor light"
+      },
+      "common_mistakes": [
+        "Running too fast—blur",
+        "She does not look back",
+        "Cluttered background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_25.webp"
+    },
+    {
+      "id": "couple_26",
+      "name": "Stacked Heart Hands",
+      "description": "Standing frontally with stacked hands at the sternum forming a heart outline. Elbows wide; shoulders touching; weight even on both feet.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hands stacked at chest",
+        "Form complete heart shape",
+        "Face camera and smile",
+        "Fingers relaxed",
+        "Sweet and cute",
+        "Heart centered in frame"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright soft light"
+      },
+      "common_mistakes": [
+        "Heart shape incomplete",
+        "Hand blocks face",
+        "One person's expression off"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_26.webp"
+    },
+    {
+      "id": "couple_27",
+      "name": "Air Kiss",
+      "description": "One hand at the mouth blowing toward the other; receiver's palms cupped near the chest as if catching. Bodies angled forty-five degrees; knees soft.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "She blows a kiss to him",
+        "He pretends to catch it",
+        "Playful interaction",
+        "Lively expression",
+        "Use a medium shot",
+        "Keep it natural"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "No interactive response",
+        "Air kiss looks fake",
+        "Background distraction"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_27.webp"
+    },
+    {
+      "id": "couple_28",
+      "name": "Shoulder Leg Carry",
+      "description": "One partner balances on one leg while the other supports under the raised thigh or at the waist. Raised leg horizontal; arms out for balance; torsos leaned into each other.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "He lifts one of her legs",
+        "Or support waist",
+        "She balances while laughing",
+        "Stay safe",
+        "Distinctly lively",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "She loses balance",
+        "Scared expression",
+        "Unflattering angle"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_28.webp"
+    },
+    {
+      "id": "couple_29",
+      "name": "Shared Coat",
+      "description": "Frontal embrace with shoulders wrapped tight, arms crossed behind the partner's back. Chests compressed; heads side by side; feet interleaved for stability.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Hold each other tightly",
+        "Share one coat",
+        "Warm intimacy",
+        "Autumn/winter mood",
+        "Heads may rest together",
+        "Keep the expression natural"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Coat blocks face",
+        "Hug too tight appears cramped",
+        "Season mood wrong"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_29.webp"
+    },
+    {
+      "id": "couple_30",
+      "name": "Cheek to Cheek Laugh",
+      "description": "Temples parallel with heads side by side, both inclined toward the viewer. Arms at sides or waists linked; hips touching; feet forward.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Lively",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Cheeks touching",
+        "Both laughing at camera",
+        "Tilt the head slightly",
+        "Joyful and lively",
+        "Keep the expression natural",
+        "Half body or close-up"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Too close to the camera distorts features",
+        "One person not smiling",
+        "Angle enlarges face"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_30.webp"
+    },
+    {
+      "id": "couple_31",
+      "name": "Leg Lift Kiss",
+      "description": "One leg of the lifted figure hooked at the partner's hip; partner's hand on the thigh or waist. Mouths aligned at close range; standing leg straight on the supporting partner.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "She lifts one leg",
+        "He supports leg or waist",
+        "Kiss moment",
+        "Classic romantic mood",
+        "Her body twisted",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Side light"
+      },
+      "common_mistakes": [
+        "Raised leg too low",
+        "He does not support her securely",
+        "Angle makes the legs appear wider"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_31.webp"
+    },
+    {
+      "id": "couple_32",
+      "name": "Back-to-Back Stand",
+      "description": "Back to back, spines aligned. Both heads rotated over opposite shoulders to look at each other. Hands may reach behind to clasp at hip level.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand back to back",
+        "Heads turned to look or laugh at each other",
+        "Hands may link",
+        "Cool intimacy",
+        "Relax shoulders",
+        "Full body"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Backs not touching firmly",
+        "Heads not turned—no interaction",
+        "Height difference looks awkward"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_32.webp"
+    },
+    {
+      "id": "couple_33",
+      "name": "Close Dance Hold",
+      "description": "Closed dance frame with hands on each other's waists and upper backs. Chests nearly touching; one foot between the partner's feet; slight rotation at the hips.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Hold a close slow-dance frame",
+        "Arms around each other's waists",
+        "Eyes meet",
+        "Optional gentle spin",
+        "Keep the mood romantic and elegant",
+        "Watch the footwork"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Warm light or side light"
+      },
+      "common_mistakes": [
+        "Too far apart",
+        "No eye contact",
+        "Spin blur"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_33.webp"
+    },
+    {
+      "id": "couple_34",
+      "name": "Waist-Guided Spin",
+      "description": "One hand on the partner's waist guiding a full turn. Partner pivots on the ball of one foot; free arm extended; the turning leg trails on the outside of the circle.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "His hand on her waist",
+        "Gentle one turn",
+        "Her skirt flares",
+        "Elegant and lively",
+        "Use burst mode",
+        "Allow enough space"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Spin too fast",
+        "Skirt covers face",
+        "His hand placement looks wrong"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_34.webp"
+    },
+    {
+      "id": "couple_35",
+      "name": "Lying in His Arm",
+      "description": "One partner supine with head in the other's crooked arm; the other seated or reclined beside. Chin lifted toward the partner; free hands on the chest or interlaced.",
+      "tags": [
+        "Couple",
+        "Lying",
+        "Half Body",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "She lies in his arm",
+        "Look up with tender eye contact",
+        "He supports steadily",
+        "Cinematic romance",
+        "Mind arm angles",
+        "Soft light"
+      ],
+      "camera_tips": {
+        "angle": "Slightly above",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Soft warm light"
+      },
+      "common_mistakes": [
+        "His arm looks tense or tired",
+        "Her neck unsupported",
+        "Angle shows double chin"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_35.webp"
+    },
+    {
+      "id": "couple_36",
+      "name": "Confetti Toss",
+      "description": "Both arms raised overhead scattering downward arcs with wrists flicking. Torsos leaned back slightly; feet apart; heads tilted up following the hand paths.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Toss confetti or petals together",
+        "Laughing in celebration",
+        "Use burst mode",
+        "Toss upward toward camera",
+        "Festive and lively",
+        "Clean up afterward"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Toss too low",
+        "Eyes closed",
+        "Confetti blocks face"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_36.webp"
+    },
+    {
+      "id": "couple_37",
+      "name": "Heart Hands Together",
+      "description": "Each forms half of a heart with curved hands at chest level; fingertips meet at the center line. Standing close; elbows out; shoulders parallel to the viewer.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Each makes half a heart",
+        "Hands join into full heart",
+        "Face camera and smile",
+        "Fingers relaxed",
+        "Sweet and cute",
+        "Heart centered in frame"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright soft light"
+      },
+      "common_mistakes": [
+        "Heart halves misaligned",
+        "Hand blocks face",
+        "Too far apart"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_37.webp"
+    },
+    {
+      "id": "couple_38",
+      "name": "Seated Back-to-Back",
+      "description": "Seated on the ground back to back, knees bent or legs extended. Both heads rotated over shoulders toward each other or forward. Hands on knees or floor.",
+      "tags": [
+        "Couple",
+        "Sitting",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Seated Back-to-Back",
+        "Turn heads to each other or camera",
+        "Relaxed and natural",
+        "Watch your footing",
+        "Intimate",
+        "Full or half body"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Backs not touching",
+        "Seated poses uneven",
+        "Messy ground"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_38.webp"
+    },
+    {
+      "id": "couple_39",
+      "name": "Leg Wrap Embrace",
+      "description": "Frontal cling with one leg wrapped around the partner's waist, calf behind the thigh. Arms locked around the neck or ribs; supporting partner leans back to counterbalance.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "She wraps one leg around his waist",
+        "Hold tight",
+        "Passionate motion",
+        "He stands steady",
+        "Use burst mode",
+        "Stay safe"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "She is not holding on securely",
+        "Leg angle wrong",
+        "He steps back"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_39.webp"
+    },
+    {
+      "id": "couple_40",
+      "name": "Cart Play Pose",
+      "description": "One partner seated low with knees bent; the other behind with hands on the seated shoulders pushing forward. Seated torso reclined; pushing partner's legs braced wide.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Use cart or similar prop",
+        "She sits in cart, he pushes",
+        "Or playful interaction",
+        "Fun and lively",
+        "Keep the expression natural",
+        "Stay safe"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright indoor light"
+      },
+      "common_mistakes": [
+        "Prop blocks face",
+        "Expression looks fake",
+        "Filming where carts are prohibited"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_40.webp"
+    },
+    {
+      "id": "couple_41",
+      "name": "Rain Kiss",
+      "description": "Bodies pressed together under a shared overhead arm arch, elbows bent, hands joined above. Shoulders tucked inside the dome; feet staggered; heads inclined toward each other.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Umbrella or simulated rain",
+        "Bodies close for kiss",
+        "Classic romantic mood",
+        "Keep umbrella from blocking face",
+        "Watch your footing",
+        "Stay emotionally engaged"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full or half body",
+        "lens": "50mm",
+        "lighting": "Overcast or soft light"
+      },
+      "common_mistakes": [
+        "Umbrella covers face",
+        "Fake rain looks unconvincing",
+        "Ground too slippery"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_41.webp"
+    },
+    {
+      "id": "couple_42",
+      "name": "Shoulder Sit",
+      "description": "Rider seated on the supporting partner's shoulders, thighs along the neck, hands on the supporting partner's forehead for balance. The supporting partner grips the rider's calves; feet wide.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "She sits on his shoulders",
+        "Arms spread or around his head",
+        "Laughing, adventurous mood",
+        "He stands steady",
+        "Stay safe",
+        "Use burst mode"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Unsteady balance",
+        "She looks scared",
+        "No room in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_42.webp"
+    },
+    {
+      "id": "couple_43",
+      "name": "Whisper Close",
+      "description": "One partner's mouth near the other's ear; the listener's head tipped away, shoulder raised. Near arms around the waist or upper arm; feet parallel.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "He whispers in her ear",
+        "She smiles or shyly turns head",
+        "Natural intimacy",
+        "Bodies close",
+        "Use a medium shot",
+        "Capture the reaction"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Too far apart",
+        "She shows no reaction",
+        "Mouth shape looks fake"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_43.webp"
+    },
+    {
+      "id": "couple_44",
+      "name": "High-Five",
+      "description": "Standing face to face with one or both palms raised at head height for a high contact. Elbows bent; optional small hop with knees bent; torsos upright.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Face each other for a high-five",
+        "Or jump high-five",
+        "Use burst mode",
+        "Joyful expression",
+        "Dynamic",
+        "In sync"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Missed the high-five",
+        "Expressions out of sync",
+        "Background too close"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_44.webp"
+    },
+    {
+      "id": "couple_45",
+      "name": "Legs Lift Carry",
+      "description": "The supporting partner holds both of the partner's legs off the ground, partner's torso folded forward over the grip. Partner's arms on the supporting partner's shoulders; supporting partner's back arched.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "He lifts both her legs",
+        "She leans forward laughing",
+        "Fun pose",
+        "Stay safe",
+        "Use burst mode",
+        "He stays steady"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Unstable hold",
+        "She looks scared",
+        "Unflattering angle"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_45.webp"
+    },
+    {
+      "id": "couple_46",
+      "name": "Shared Horizon Gaze",
+      "description": "Side by side facing the same direction, hands joined at hip level. Heads turned together toward the horizon; shoulders level; feet parallel.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand shoulder to shoulder",
+        "Holding hands",
+        "Look into the distance together",
+        "Quiet romance",
+        "Relaxed expression",
+        "Full body"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "50mm",
+        "lighting": "Natural light or backlight"
+      },
+      "common_mistakes": [
+        "Looking different directions",
+        "Hands not linked",
+        "No depth in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_46.webp"
+    },
+    {
+      "id": "couple_47",
+      "name": "Swap Hats",
+      "description": "Facing each other with both hands adjusting headwear on the partner at ear height. Elbows bent; torsos leaned in; weight on the front foot.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Swap each other's hats",
+        "Or adjust each other's hats",
+        "Laughing playfully",
+        "Add a playful moment",
+        "Use a medium shot",
+        "Keep it natural"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "85mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Hat too large",
+        "Hat blocks the face",
+        "Unnatural expression"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_47.webp"
+    },
+    {
+      "id": "couple_48",
+      "name": "Spinning Embrace",
+      "description": "Tight waist embrace while rotating slowly. Inner feet pivot together; outer arms locked; one partner's feet dragged slightly on the turn.",
+      "tags": [
+        "Couple",
+        "Full Body",
+        "Lively",
+        "Romantic"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Tight hug with gentle spin",
+        "He gently spins her",
+        "Warm motion",
+        "Use burst mode",
+        "Allow enough space",
+        "Keep the expression natural"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Spin too fast—dizzy",
+        "Stepped on foot",
+        "No room in background"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_48.webp"
+    },
+    {
+      "id": "couple_49",
+      "name": "Farewell Kiss",
+      "description": "Standing face to face at close range. One head inclines until the brow meets the other's temple; bodies touching from hip to shoulder. Hands on upper arms or waist.",
+      "tags": [
+        "Couple",
+        "Half Body",
+        "Standing",
+        "Romantic",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "She lightly kisses his cheek or lips",
+        "Bodies close",
+        "Sweet expression",
+        "Warm closing moment",
+        "Medium close-up",
+        "Keep it natural"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half-body close-up",
+        "lens": "85mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Kiss placement looks awkward",
+        "Expressions not sweet",
+        "Too far apart"
+      ],
+      "category": "Couple",
+      "categoryId": "couple",
+      "image": "images/couple_49.webp"
+    },
+    {
+      "id": "solo_01",
+      "name": "Side-Face Chin Rest",
+      "description": "Standing at roughly forty-five degrees to the viewer, torso turned sideways. One elbow bent outward forming open triangle space; palm and fingers lightly support the underside of the jaw. The opposite hand rests on the hip with elbow away from the trunk. Weight centered on the rear leg; front knee softly bent. Head dips slightly toward the raised hand; neck angled a few degrees.",
+      "tags": [
+        "Slimming",
+        "Slimmer-looking face",
+        "Half Body",
+        "Side View",
+        "Standing",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Turn your body 45 degrees to the camera",
+        "Keep the elbow away from the body to form a triangle",
+        "Gently support the chin with your palm; do not press into the face",
+        "Place the other hand at your waist or lightly touch your hip",
+        "Shift weight to the rear foot and softly bend the front knee",
+        "Tilt your head slightly and look at the camera or just above it"
+      ],
+      "camera_tips": {
+        "angle": "At or slightly above eye level",
+        "framing": "Half body or medium shot",
+        "lens": "50-85mm",
+        "lighting": "Side light outlines the jawline"
+      },
+      "common_mistakes": [
+        "Pressing the face until features distort",
+        "Keeping the elbow tight to the body, making the arm appear wider",
+        "Facing the camera straight on, making the face appear wider"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_01.webp"
+    },
+    {
+      "id": "solo_02",
+      "name": "Slimming Wall Lean",
+      "description": "Torso inclined about twenty to thirty degrees off vertical, shoulder line dropped as if braced against invisible support. One knee bent with toe forward; the other leg straight bearing weight. Arms crossed lightly over upper chest with elbows held away from ribs, or one hand at hip while the other rises near the head. Shoulders rolled forward; head projects slightly ahead of the chest.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Full Body",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lean your back or shoulder lightly against the wall at 20-30 degrees",
+        "Bend one leg, point the toe, or cross the ankles",
+        "Keep the other leg straight to carry your weight",
+        "Cross hands lightly near the chest, keeping the arms away from the body",
+        "Or place one hand in a pocket and the other near the hair",
+        "Bring shoulders slightly forward and lean the head forward a little"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light or side light"
+      },
+      "common_mistakes": [
+        "Standing too straight against the wall with no curve",
+        "Arms pressed too tightly against the body",
+        "The tilt angle is too large and unnatural"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_02.webp"
+    },
+    {
+      "id": "solo_03",
+      "name": "Side Stance with Hand in Pocket",
+      "description": "Three-quarter stance with weight on the rear foot; leading leg knee bent and foot advanced. One hand tucked at hip level with thumb hooked outward; opposite forearm lifted near the jaw or temple, elbow open. Shoulders lowered; spine elongated; neck straight with chin level.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Place one hand in a pocket with the thumb left outside",
+        "Turn the body 45 degrees to the camera",
+        "Shift weight to the rear leg and slightly bend the front knee",
+        "Touch your hair or cheek with the other hand",
+        "Keep shoulders down and chest open",
+        "Smile naturally and look at the camera"
+      ],
+      "camera_tips": {
+        "angle": "At chest level or slightly below",
+        "framing": "Half to full body",
+        "lens": "50 mm",
+        "lighting": "Soft natural light"
+      },
+      "common_mistakes": [
+        "Pocket hand stiff",
+        "Body facing too straight, making the silhouette appear wider",
+        "Shrugging or looking tense"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_03.webp"
+    },
+    {
+      "id": "solo_04",
+      "name": "Wind-Blown Hair Pose",
+      "description": "Standing or mid-step with torso twisted about forty-five degrees. Head tilted back a few degrees; one arm raised with hand threading through hair above the ear. Other arm hangs at the side or lifts slightly from the hip. Hips counter-rotate against the shoulders; weight shifts through the stride.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Twist the body 45 degrees",
+        "Tilt the head slightly",
+        "Run one hand through the hair or toss it lightly",
+        "Let the other hand hang naturally or lightly flick the hem",
+        "Choose a windy outdoor environment",
+        "Keep the expression relaxed and natural"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle to capture motion",
+        "framing": "Full body or three-quarter",
+        "lens": "35-70mm",
+        "lighting": "Backlight or side-back light adds atmosphere"
+      },
+      "common_mistakes": [
+        "The movement is too forceful or unnatural",
+        "Too much hair covering the face",
+        "Cluttered background stealing attention"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_04.webp"
+    },
+    {
+      "id": "solo_05",
+      "name": "Crossed-Arms Forward Lean",
+      "description": "Forearms crossed over upper chest or lower ribs with elbows spaced away from the torso. Trunk leans forward ten to fifteen degrees. Weight on one leg; opposite knee bent. Shoulders relaxed downward; head level or tipped slightly toward the viewer.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Cross arms lightly in front of the chest or waist",
+        "Keep arms slightly away from the body",
+        "Lean forward slightly",
+        "Put weight on one leg and slightly bend the other leg",
+        "Relax your shoulders",
+        "Smile and look at the camera"
+      ],
+      "camera_tips": {
+        "angle": "At eye level",
+        "framing": "Half body",
+        "lens": "50-85mm",
+        "lighting": "Even soft light"
+      },
+      "common_mistakes": [
+        "Arms pressed too tightly against the body",
+        "Arms crossed too defensively",
+        "Body too straight, with no attitude"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_05.webp"
+    },
+    {
+      "id": "solo_06",
+      "name": "Hands-Up Cheer",
+      "description": "Both arms lifted overhead or spread wide at shoulder height. Spine stretched tall; optional light bounce on the balls of the feet with knees soft. Head tipped back; rib cage open; weight even or slightly on the rear leg.",
+      "tags": [
+        "Longer-looking legs",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Raise your hands overhead or spread them out",
+        "Stretch the body upward",
+        "Add a small jump for more energy",
+        "Tip the head back and smile",
+        "Rise onto tiptoe to lengthen the body",
+        "Show an energetic expression"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle to lengthen the legs",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright even light"
+      },
+      "common_mistakes": [
+        "Arm not fully extended",
+        "Stiff expression when jumping",
+        "Overexposed background or harsh overhead light"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_06.webp"
+    },
+    {
+      "id": "solo_07",
+      "name": "Sideways Mirror Selfie",
+      "description": "Three-quarter turn with one arm extended forward at chest height, elbow nearly straight. Other hand planted on the hip or lifted to the hairline. Legs crossed at the ankle or front knee bent; weight on the back leg creating a narrow silhouette.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand 45 degrees sideways to the mirror",
+        "Take a selfie with your phone in one hand",
+        "Let the other hand drop naturally or touch your hair",
+        "Legs slightly crossed or bent",
+        "Keep your gaze natural in the mirror",
+        "Do not let the phone block your face"
+      ],
+      "camera_tips": {
+        "angle": "Use the mirror reflection angle",
+        "framing": "Half body",
+        "lens": "Mobile Wide Angle or 50mm Equivalent",
+        "lighting": "Front mirror light or window light"
+      },
+      "common_mistakes": [
+        "Phone covering the face",
+        "Dirty marks on the mirror",
+        "Body facing too straight, making the body appear wider"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_07.webp"
+    },
+    {
+      "id": "solo_08",
+      "name": "Shoulder-Tilt Smile",
+      "description": "Frontal or near-frontal stance with one shoulder advanced toward the viewer, torso twisted about forty-five degrees. Both arms hang naturally at the sides with relaxed elbows. Hips square or slightly offset; weight balanced; head tilted toward the dropped shoulder.",
+      "tags": [
+        "Slimming",
+        "Slimmer-looking face",
+        "Half Body",
+        "Side View",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Bring one shoulder slightly toward the camera",
+        "Twist the body sideways 45 degrees",
+        "Let the hands hang naturally",
+        "Smile naturally",
+        "Tuck the chin slightly",
+        "Look at the camera with soft eyes"
+      ],
+      "camera_tips": {
+        "angle": "At or slightly below eye level",
+        "framing": "Half body",
+        "lens": "0 - 85mm)",
+        "lighting": "Soft side light"
+      },
+      "common_mistakes": [
+        "Shoulders flat, with no curve",
+        "Shrugging or looking tense",
+        "Facing the camera straight on, making the face appear larger"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_08.webp"
+    },
+    {
+      "id": "solo_09",
+      "name": "Window Lean",
+      "description": "Body angled forty-five degrees with forearm resting on a horizontal bar at waist height, elbow bent. Torso leans into the support; outside leg straight, inside knee soft. Free hand near the jaw or draped along the rail; head inclined toward the bent elbow.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Lean sideways at 45 degrees against a window or railing",
+        "Rest one hand on the support or railing",
+        "Use the natural light from the window",
+        "Shift weight to the rear leg",
+        "Tilt the head slightly",
+        "Keep the expression relaxed and natural"
+      ],
+      "camera_tips": {
+        "angle": "Shoot at eye level using window light",
+        "framing": "Half or full body",
+        "lens": "50 mm",
+        "lighting": "Side window light works best"
+      },
+      "common_mistakes": [
+        "Backlighting without fill, making the subject too dark",
+        "Leaning too hard and distorting the body line",
+        "Railing lines cutting through the head"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_09.webp"
+    },
+    {
+      "id": "solo_10",
+      "name": "Jumping Cheer",
+      "description": "Both feet leave the ground in a small hop, knees bent or legs together. Arms spread wide or raised above the head; torso elongated. Head aligned with the spine or thrown slightly back; shoulders lifted with the jump.",
+      "tags": [
+        "Longer-looking legs",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Keep legs together or stagger them slightly while jumping",
+        "Arms outstretched or raised",
+        "Capture the moment both feet leave the ground",
+        "Show a joyful expression",
+        "Body extends upwards",
+        "Shoot bursts and select the best frame"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Plenty of light; shutter 1/500 s or faster"
+      },
+      "common_mistakes": [
+        "Capturing the landing instead of the airborne moment",
+        "Jump too low, weakening the pose",
+        "Background lines cutting through the body"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_10.webp"
+    },
+    {
+      "id": "solo_11",
+      "name": "Cross-Leg Standing Pose",
+      "description": "Legs crossed at the ankles or calves, front foot bearing partial weight. Torso turned forty-five degrees; arms relaxed at the sides or one hand on the thigh. Hips narrow; spine vertical; head over the sternum.",
+      "tags": [
+        "Slimming",
+        "Longer-looking legs",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Cross the legs with one foot forward",
+        "Angle the body 45 degrees to the side",
+        "Let hands rest naturally at the sides or on the thighs",
+        "Shift weight to the rear leg",
+        "Tilt the head slightly",
+        "Classic slimming standing pose"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50 mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Legs crossed too tightly, making the pose twisted",
+        "Facing the camera straight on",
+        "Front foot not extended, making the legs appear shorter"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_11.webp"
+    },
+    {
+      "id": "solo_12",
+      "name": "Chin Forward Extension",
+      "description": "Standing or seated with chin advanced forward from the neck, jaw line extended. Torso rotated forty-five degrees; shoulders level. Arms neutral at sides or one forearm on the knee; weight settled on one hip in sitting variants.",
+      "tags": [
+        "Slimmer-looking face",
+        "Half Body",
+        "Side View",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Bring the chin slightly forward",
+        "Angle the body 45 degrees to the side",
+        "Works standing or seated",
+        "Look at the camera",
+        "Keep the corners of the mouth natural",
+        "Create a clear jawline"
+      ],
+      "camera_tips": {
+        "angle": "Eye level or slightly higher",
+        "framing": "Half-body close-up",
+        "lens": "85-105mm",
+        "lighting": "Side light defines the outline"
+      },
+      "common_mistakes": [
+        "Chin pushed too far forward",
+        "Angle creating a double chin",
+        "Top light flattening the face"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_12.webp"
+    },
+    {
+      "id": "solo_13",
+      "name": "Sideways Step Sit",
+      "description": "Seated on a step with one leg extended along the tread and the other bent, foot flat below. Torso leaned sideways; one palm presses the step behind the hip. Opposite elbow bent with hand supporting the jaw; head follows the lean.",
+      "tags": [
+        "Slimming",
+        "Sitting",
+        "Side View",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Sit on the steps, one leg straight, one leg bent",
+        "Body sideways",
+        "Support yourself on the step or rest one hand near the face",
+        "Back straight",
+        "Tilt the head slightly and look at the camera",
+        "Relax naturally"
+      ],
+      "camera_tips": {
+        "angle": "Eye level or slightly lower",
+        "framing": "Full body or three-quarter",
+        "lens": "35-50mm",
+        "lighting": "Natural light or side light"
+      },
+      "common_mistakes": [
+        "Sitting too low with short legs",
+        "Hunched back",
+        "Step lines cut shoulders"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_13.webp"
+    },
+    {
+      "id": "solo_14",
+      "name": "Half-Hidden Hat Pose",
+      "description": "Three-quarter stance with one hand at the brow, fingers spaced as if shading the upper skull. Head lifted so the chin rises; opposite arm at the side or hip. Weight on the rear leg; front toe light on the ground.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Pull the hat brim down slightly to cover part of the face",
+        "Lift your eyes toward the camera",
+        "Stand at a 45-degree side angle",
+        "Use one hand to hold the hat brim",
+        "Create a mysterious mood",
+        "Lift the corners of the mouth slightly"
+      ],
+      "camera_tips": {
+        "angle": "At eye level",
+        "framing": "Half body",
+        "lens": "50-85mm",
+        "lighting": "Soft light; avoid hat shadows over the eyes"
+      },
+      "common_mistakes": [
+        "Hat brim covering the eyes completely",
+        "Face fully blocked, losing the intended mystery",
+        "Hat shadow too heavy under top light"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_14.webp"
+    },
+    {
+      "id": "solo_15",
+      "name": "Arm-Extended Selfie",
+      "description": "One arm fully extended forward at shoulder height, elbow locked. Torso twisted forty-five degrees; free hand on the hip or at the hair. Legs staggered with rear leg straight and front knee bent.",
+      "tags": [
+        "Slimming",
+        "Half Body",
+        "Side View",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Take a selfie with one arm extended",
+        "Twist the body 45 degrees",
+        "Let the other hand drop naturally or touch your hair",
+        "Hold the phone slightly above eye level",
+        "Look at the camera",
+        "Classic slimming selfie angle"
+      ],
+      "camera_tips": {
+        "angle": "Slightly higher selfie angle",
+        "framing": "Half body",
+        "lens": "Mobile Wide Angle",
+        "lighting": "Face the light source"
+      },
+      "common_mistakes": [
+        "Phone too low, creating a double chin",
+        "Arm bent, shortening the selfie angle",
+        "Background too close, making the face appear larger"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_15.webp"
+    },
+    {
+      "id": "solo_16",
+      "name": "Legs Together on Tiptoe",
+      "description": "Heels raised on the balls of the feet, ankles aligned. Legs together; spine stretched vertically. Arms at the sides or lifted overhead; pelvis tucked slightly; head high over the cervical stack.",
+      "tags": [
+        "Taller Look",
+        "Slimming",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Keep legs together and rise onto tiptoe",
+        "Stretch the body upward",
+        "Keep hands natural or slightly raised",
+        "Engage the core and tuck the abdomen slightly",
+        "Head slightly raised",
+        "Creates a taller, slimmer look"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "50 mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Unstable tiptoe",
+        "Body not elongated",
+        "Pose makes the body appear shorter"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_16.webp"
+    },
+    {
+      "id": "solo_17",
+      "name": "Head-Back Laugh",
+      "description": "Head thrown back with throat open; upper back arched lightly. Torso folded a few degrees at the waist. One hand on the abdomen or in the hair; opposite arm loose. Knees soft; weight centered.",
+      "tags": [
+        "Slimming",
+        "Full Body",
+        "Lively",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Laugh naturally with the head tipped back",
+        "Bend the body slightly",
+        "Place one hand on the stomach or in the hair",
+        "Keep the expression real, not acted",
+        "Relax your shoulders",
+        "Capture the moment"
+      ],
+      "camera_tips": {
+        "angle": "At chest level",
+        "framing": "Full body or half body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Eyes closed too much while laughing",
+        "Leaning back excessively",
+        "A hard smile is unnatural"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_17.webp"
+    },
+    {
+      "id": "solo_18",
+      "name": "One Foot Raised on Wall",
+      "description": "One foot raised with bent knee, sole near a vertical plane beside the body. Three-quarter stance; same-side hand pressed to that plane at shoulder height or lifted to the hair. Standing leg straight; hips stacked over the supporting ankle.",
+      "tags": [
+        "Slimming",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Raise one foot against the wall",
+        "Stand at a 45-degree side angle",
+        "Place one hand on the wall or in the hair",
+        "Relax the raised leg and keep the support leg stable",
+        "Keep a cool expression",
+        "Extend the body line"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Side light adds depth"
+      },
+      "common_mistakes": [
+        "Raised leg too low, weakening the pose",
+        "Body facing straight on",
+        "Wall color blending into the clothing"
+      ],
+      "category": "Solo",
+      "categoryId": "solo",
+      "image": "images/solo_18.webp"
+    },
+    {
+      "id": "group_01",
+      "name": "Shoulder to Shoulder, Eyes on Camera",
+      "description": "Three people standing in a row, shoulders lightly touching, torsos angled forty-five degrees toward the lens. People on the ends keep one arm down and the other across the middle person's upper back. Heads upright and necks relaxed; feet parallel and hip-width apart.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Two or three in a row",
+        "Bodies lean slightly inward",
+        "Shoulders lightly touch, not squeezed",
+        "Outer hands down or on neighbor's back",
+        "Bodies ~45° to camera",
+        "Face camera and smile"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Even soft light"
+      },
+      "common_mistakes": [
+        "Packed too tight",
+        "Heights not aligned",
+        "Someone blinked"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_01.webp"
+    },
+    {
+      "id": "group_02",
+      "name": "Staggered Front-Back Layers",
+      "description": "Two people in staggered depth: one forward in three-quarter view, one behind offset to the side. The front person turns their torso; rear partner's head peeking over the shoulder line. Feet on different planes; arms relaxed.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "One in front, one behind",
+        "Stagger front and back for depth",
+        "Front person angled toward the camera",
+        "Rear person peeks over the shoulder or turns to show their face",
+        "Eyes on camera or each other",
+        "Sense of space"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Fully overlapping",
+        "Rear face blocked",
+        "Layers not visible"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_02.webp"
+    },
+    {
+      "id": "group_03",
+      "name": "Face Each Other Laughing",
+      "description": "Two people facing each other half a step apart, heads inclined inward without contact. Hands on each other's upper arms or shoulders. Weight on both feet; spines vertical.",
+      "tags": [
+        "Group",
+        "Half Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Face each other half a step apart",
+        "Heads close but not touching",
+        "Eyes on each other",
+        "Corners of mouth lifted",
+        "Hand lightly on arm or shoulder",
+        "Easy interaction"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Half body",
+        "lens": "50-85mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Too far apart",
+        "Looking at camera instead of each other",
+        "Stiff expression"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_03.webp"
+    },
+    {
+      "id": "group_04",
+      "name": "Mixed Sit-Stand Heights",
+      "description": "Two people in height contrast: one seated on a step, torso twisted toward the viewer; one standing behind and beside, torso leaning forward. Heads at different elevations; knees bent on the seated person.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Sitting",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "One seated, one standing behind",
+        "Seated person angled to camera",
+        "Standing person leans in slightly",
+        "Heads at varied heights",
+        "Create layered depth",
+        "Natural interaction"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Not enough height difference",
+        "Slouched while seated",
+        "No connection between the two"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_04.webp"
+    },
+    {
+      "id": "group_05",
+      "name": "Casual Back-to-Back",
+      "description": "Two people back to back, shoulder blades touching, spines straight. Heads rotated toward the viewer or opposite directions. Arms at sides or hands in pockets at the hip line.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Stand back to back",
+        "Stand naturally straight or relaxed",
+        "Face camera or look different ways",
+        "Hands in pockets or at sides",
+        "Cool, casual vibe",
+        "Relax shoulders"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light or side light"
+      },
+      "common_mistakes": [
+        "Backs not touching",
+        "All heads same direction",
+        "Posture too stiff"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_05.webp"
+    },
+    {
+      "id": "group_06",
+      "name": "Semicircle Formation",
+      "description": "Four people arranged in a semicircle opening toward the viewer, bodies angled inward. Heads turned to the center or forward; feet spaced evenly on the arc; arms at sides or on neighbors' backs.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Three to five in a semicircle",
+        "Leave space in the middle",
+        "Bodies face center",
+        "Look at camera or center person",
+        "Balanced composition",
+        "Even spacing"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Someone blocked",
+        "Spacing uneven",
+        "Edge person cropped out"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_06.webp"
+    },
+    {
+      "id": "group_07",
+      "name": "Walking Candid Group",
+      "description": "Four people walking abreast or in a loose line, legs in varied stride phases. Arms swinging naturally; some heads forward, some turned to a neighbor. Shoulders level with the path.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Walk side by side or front-back",
+        "Natural stride",
+        "Look at camera or each other",
+        "Arms swing naturally",
+        "Use burst shooting for motion",
+        "Open background"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Outdoor natural light"
+      },
+      "common_mistakes": [
+        "Steps messy",
+        "Someone blurred",
+        "Pedestrians in background"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_07.webp"
+    },
+    {
+      "id": "group_08",
+      "name": "One Lead, Others Supporting",
+      "description": "Four people with one centered forward, posture more open. People on the sides set back and angled toward the center, heads turned to the focal person. Feet form a shallow V.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "One at center, slightly forward",
+        "Others on sides or behind",
+        "Lead pose more open",
+        "Others angled or looking at lead",
+        "Create visual focus",
+        "Balanced framing"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Lead subject not prominent",
+        "Everyone same pose",
+        "People in back too small"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_08.webp"
+    },
+    {
+      "id": "group_09",
+      "name": "Arm Over Shoulder Bond",
+      "description": "Three people clustered with arms draped over shoulders or upper backs. Torsos leaned inward; heads close at the same height; weight on the inner feet.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Two or three close together",
+        "Hand on neighbor's shoulder or back",
+        "Bodies lean slightly inward",
+        "Heads close",
+        "Look at camera or each other",
+        "Sense of closeness"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Arm on shoulder too heavy",
+        "Someone pushed out of frame",
+        "Expressions not matched"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_09.webp"
+    },
+    {
+      "id": "group_10",
+      "name": "Tiered Stagger Stand",
+      "description": "Four people on staggered elevations, lowest in front, tallest in rear. Each body three-quarter turned; heads aligned on one horizon line; feet on separate treads.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Stand on different step heights",
+        "Arrange low to high",
+        "Each person slightly angled to camera",
+        "All look at camera",
+        "Ordered layers",
+        "Even spacing"
+      ],
+      "camera_tips": {
+        "angle": "Eye level or slightly low",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Height difference not visible",
+        "Someone blocked",
+        "Line too rigid"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_10.webp"
+    },
+    {
+      "id": "group_11",
+      "name": "Gesture Interaction",
+      "description": "Four people in a tight cluster with hands meeting overhead for a slap or forming shapes toward the center. Bodies bent toward the gesture; elbows high.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Gather in a circle",
+        "High-five, heart gesture, or point",
+        "Bodies face the interaction",
+        "Keep the expression natural",
+        "Make the interaction playful",
+        "Synchronize movement"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full or half body",
+        "lens": "35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Movements not synchronized",
+        "Hand blocks face",
+        "Interaction feels stiff"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_11.webp"
+    },
+    {
+      "id": "group_12",
+      "name": "Center Focus Group",
+      "description": "Four people with one seated or standing at the hub; others ring the center facing inward. Outer heads toward the middle or toward the viewer; knees bent on the seated hub.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Sitting",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "One seated or standing at center",
+        "Arrange the others around the center, in front or behind",
+        "Outer people face center",
+        "Eyes on camera or center",
+        "Visual focus",
+        "Reasonable spacing"
+      ],
+      "camera_tips": {
+        "angle": "Slightly above or eye level",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Center person not standing out",
+        "Outer people block center",
+        "Composition too cramped"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_12.webp"
+    },
+    {
+      "id": "group_13",
+      "name": "Shared Forward Gaze",
+      "description": "Four people in a line sharing the same gaze direction, bodies three-quarter to the viewer. Heads turned together off-frame; arms at sides; feet forward.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Everyone same direction",
+        "Slightly angled to camera",
+        "All look toward horizon",
+        "Relaxed or smiling",
+        "Mood and atmosphere",
+        "Even spacing"
+      ],
+      "camera_tips": {
+        "angle": "Chest-height camera",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light or backlight"
+      },
+      "common_mistakes": [
+        "Someone looking at the camera breaks the mood",
+        "Directions not aligned",
+        "Standing too close"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_13.webp"
+    },
+    {
+      "id": "group_14",
+      "name": "Casual Mixed Seating",
+      "description": "Four people seated on the ground or low furniture in varied poses: cross-legged, legs to one side, one knee up. Torso angles differ; some heads toward the viewer, some toward a neighbor.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Sitting",
+        "Beginner"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Group seated on floor or sofa",
+        "Varied poses: cross-legged, side sit",
+        "Look at camera or each other",
+        "Easy and natural",
+        "Keep ground clean",
+        "Staggered depth"
+      ],
+      "camera_tips": {
+        "angle": "Slightly above or eye level",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Soft light"
+      },
+      "common_mistakes": [
+        "Everyone seated identically",
+        "Someone blocked",
+        "Messy ground"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_14.webp"
+    },
+    {
+      "id": "group_15",
+      "name": "Triangle Composition",
+      "description": "Three people in triangular placement: one person at the forward apex, two behind spaced wide. All bodies slightly rotated; feet shoulder-width; heads aligned on one plane facing forward.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Three-person triangle formation",
+        "One slightly forward, two behind spaced apart",
+        "Slightly angled to camera",
+        "All look at camera",
+        "Stable, designed composition",
+        "Even spacing"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Triangle not formed",
+        "Someone blocked",
+        "Spacing uneven"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_15.webp"
+    },
+    {
+      "id": "group_16",
+      "name": "Foreground-Background Depth",
+      "description": "Four people with one large in the foreground, torso three-quarter, shoulder nearest the lens. Additional figures smaller in the rear plane, standing naturally; depth between the rows.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "One close to lens as foreground",
+        "Others in the back",
+        "Foreground subject slightly turned",
+        "Natural stance in the rear",
+        "Create spatial depth",
+        "Use aperture for depth of field"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low on foreground subject",
+        "framing": "Full body",
+        "lens": "35-50mm wide aperture",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Foreground too large, blocks rear",
+        "People in back too small",
+        "Shallow depth of field blurs rear"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_16.webp"
+    },
+    {
+      "id": "group_17",
+      "name": "Casual Chat Moment",
+      "description": "Four people in a loose ring or line, bodies oriented toward each other. Mixed head directions; hands mid-gesture at chest height; weight shifted on one hip per person.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Form a loose ring or line",
+        "Simulate conversation",
+        "Mix gazes between the camera and friends",
+        "Natural gestures",
+        "Authentic interaction",
+        "Candid feel"
+      ],
+      "camera_tips": {
+        "angle": "Eye level",
+        "framing": "Full body",
+        "lens": "35-50mm",
+        "lighting": "Natural light"
+      },
+      "common_mistakes": [
+        "Everyone staring at camera looks fake",
+        "No gestures",
+        "Stiff expression"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_17.webp"
+    },
+    {
+      "id": "group_18",
+      "name": "Pockets In, Cool Group Look",
+      "description": "Four people standing apart or in a row, some with thumbs hooked at the hip line. Torsos angled; chins raised; legs straight or one knee bent.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Side View"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Line up or spread out",
+        "Some with hands in pockets",
+        "Body slightly turned",
+        "Chin slightly up or eyes on camera",
+        "Cool, fashion-forward",
+        "Natural spacing"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "35mm",
+        "lighting": "Side light or hard light"
+      },
+      "common_mistakes": [
+        "Everyone same pose",
+        "Hands in pockets too posed",
+        "Too serious"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_18.webp"
+    },
+    {
+      "id": "group_19",
+      "name": "Arc Formation",
+      "description": "Four people along a curved arc facing the concave side, shoulders turned inward. Spacing even on the curve; heads toward the center point; feet tangent to the arc.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing"
+      ],
+      "difficulty": "medium",
+      "steps": [
+        "Stand along an arc",
+        "Curved composition",
+        "Bodies lean toward center",
+        "Eyes on camera or center",
+        "Flow in composition",
+        "Even spacing"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Even light"
+      },
+      "common_mistakes": [
+        "Straight line formation",
+        "Arc incomplete",
+        "Edge person cut off"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_19.webp"
+    },
+    {
+      "id": "group_20",
+      "name": "Group Jump Energy",
+      "description": "Four people simultaneously airborne in a low jump, knees bent, arms raised or out. Bodies stretched upward; feet tucked or split; heads aligned with the spine on the ascent.",
+      "tags": [
+        "Group",
+        "Full Body",
+        "Standing",
+        "Lively"
+      ],
+      "difficulty": "hard",
+      "steps": [
+        "Do a small group jump together",
+        "Or raise hands or feet for energy",
+        "Use burst mode",
+        "Show happy expressions",
+        "Use 1/500 s or faster",
+        "Capture synchronized moment"
+      ],
+      "camera_tips": {
+        "angle": "Slightly low angle",
+        "framing": "Full body",
+        "lens": "24-35mm",
+        "lighting": "Bright light"
+      },
+      "common_mistakes": [
+        "Out of sync",
+        "Someone did not jump",
+        "Expression changes on landing"
+      ],
+      "category": "Group",
+      "categoryId": "group",
+      "image": "images/group_20.webp"
+    }
+  ]
+}

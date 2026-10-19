@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>ساخت کد فعال‌سازی ژستینو</title>
+<link rel="stylesheet" href="./fonts/vazirmatn.css" />
+<style>
+  body{margin:0;background:#0B0A12;color:#eee;font-family:Vazirmatn,Tahoma,sans-serif;padding:18px;line-height:1.9}
+  .card{max-width:520px;margin:0 auto 14px;background:#17151f;border:1px solid #2a2733;border-radius:18px;padding:16px}
+  h1{font-size:18px;margin:0 0 8px} h2{font-size:14px;margin:0 0 6px}
+  input,textarea{width:100%;box-sizing:border-box;background:#0f0e15;color:#fff;border:1px solid #333;border-radius:12px;padding:10px;font-family:monospace;font-size:14px;direction:ltr}
+  textarea{min-height:90px;word-break:break-all}
+  button{width:100%;margin-top:8px;padding:12px;border:0;border-radius:12px;font-family:inherit;font-weight:700;font-size:14px;background:#c9a45c;color:#111}
+  button.ghost{background:#2a2733;color:#eee}
+  .muted{color:#9a96a8;font-size:12px} .ok{color:#9fd36b} .err{color:#ff8a8a}
+  label{display:flex;gap:8px;align-items:center;font-size:12px;margin-top:6px}
+  label input{width:auto}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>ساخت کد فعال‌سازی ژستینو</h1>
+  <p class="muted">این صفحه فقط برای صاحب برنامه است. بدون «کلید خصوصی» هیچ کدی ساخته نمی‌شود، پس عمومی بودن این صفحه خطری ندارد. کلید خصوصی را هرگز برای کسی نفرست و داخل گیت‌هاب نگذار.</p>
+</div>
+
+<div class="card" id="keyCard">
+  <h2>۱. کلید خصوصی</h2>
+  <textarea id="key" placeholder="GSTKEY-..."></textarea>
+  <label><input type="checkbox" id="remember" checked /> روی همین گوشی/مرورگر به خاطر بسپار</label>
+  <button id="saveKey">ذخیره کلید</button>
+  <p id="keyStatus" class="muted"></p>
+</div>
+
+<div class="card">
+  <h2>۲. کد دستگاه مشتری</h2>
+  <input id="device" placeholder="ABCD-EFGH-JKMN" autocapitalize="characters" autocomplete="off" />
+  <button id="make">ساخت کد فعال‌سازی</button>
+  <p id="err" class="err"></p>
+</div>
+
+<div class="card" id="outCard" style="display:none">
+  <h2>۳. کد فعال‌سازی (برای مشتری بفرست)</h2>
+  <textarea id="out" readonly></textarea>
+  <button id="copy">کپی پیام برای مشتری</button>
+  <button id="share" class="ghost">اشتراک‌گذاری (تلگرام، پیامک و ...)</button>
+  <p id="copied" class="ok"></p>
+</div>
+
+<div class="card">
+  <button id="forget" class="ghost">پاک کردن کلید از این دستگاه</button>
+</div>
+
+<script>
+(() => {
+  const STORE = 'gestino-owner-key';
+  const PREFIX = 'gestino-premium-v1|';
+  const $ = (id) => document.getElementById(id);
+  let privateKey = null;
+
+  const b64url = (bytes) => {
+    let s = ''; for (const b of bytes) s += String.fromCharCode(b);
+    return btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  };
+  const normDevice = (raw) => {
+    const c = raw.toUpperCase().replace(/[^A-Z0-9]/g, '');
+    return c.length === 12 ? `${c.slice(0,4)}-${c.slice(4,8)}-${c.slice(8,12)}` : null;
+  };
+  const parseKey = (token) => {
+    const t = token.trim().replace(/^GSTKEY-/, '');
+    const json = atob(t.replace(/-/g, '+').replace(/_/g, '/') + '==='.slice((t.length + 3) % 4));
+    return JSON.parse(json);
+  };
+  const loadKey = async (token, remember) => {
+    if (!crypto || !crypto.subtle) throw new Error('این صفحه را باید از آدرس https باز کنی.');
+    const jwk = parseKey(token);
+    privateKey = await crypto.subtle.importKey('jwk', jwk, { name: 'ECDSA', namedCurve: 'P-256' }, false, ['sign']);
+    if (remember) localStorage.setItem(STORE, token.trim());
+    $('keyStatus').textContent = 'کلید آماده است ✓'; $('keyStatus').className = 'ok';
+    $('key').value = ''; $('key').placeholder = 'کلید ذخیره شده است';
+  };
+
+  $('saveKey').onclick = async () => {
+    try { await loadKey($('key').value, $('remember').checked); }
+    catch (e) { $('keyStatus').textContent = 'کلید معتبر نیست: ' + (e.message || e); $('keyStatus').className = 'err'; }
+  };
+  $('forget').onclick = () => { localStorage.removeItem(STORE); privateKey = null; $('keyStatus').textContent = 'کلید پاک شد.'; $('keyStatus').className = 'muted'; };
+
+  $('make').onclick = async () => {
+    $('err').textContent = ''; $('copied').textContent = '';
+    if (!privateKey) { $('err').textContent = 'اول کلید خصوصی را ذخیره کن.'; return; }
+    const device = normDevice($('device').value);
+    if (!device) { $('err').textContent = 'کد دستگاه باید ۱۲ حرف/عدد باشد، مثل ABCD-EFGH-JKMN'; return; }
+    const sig = await crypto.subtle.sign({ name: 'ECDSA', hash: 'SHA-256' }, privateKey, new TextEncoder().encode(PREFIX + device));
+    const code = b64url(new Uint8Array(sig));
+    $('out').value = code; $('outCard').style.display = '';
+    $('out').dataset.msg = `کد فعال‌سازی ژستینو برای دستگاه ${device}:\n\n${code}\n\nدر برنامه: تنظیمات ← خرید و فعال‌سازی با کد ← این کد را Paste کن.`;
+  };
+  $('copy').onclick = async () => {
+    const msg = $('out').dataset.msg || $('out').value;
+    try { await navigator.clipboard.writeText(msg); $('copied').textContent = 'کپی شد ✓'; }
+    catch { $('out').select(); document.execCommand('copy'); $('copied').textContent = 'کپی شد ✓'; }
+  };
+  $('share').onclick = () => {
+    const msg = $('out').dataset.msg || $('out').value;
+    if (navigator.share) navigator.share({ text: msg }).catch(() => {});
+    else $('copy').onclick();
+  };
+
+  const saved = localStorage.getItem(STORE);
+  if (saved) loadKey(saved, false).catch(() => {});
+})();
+</script>
+</body>
+</html>
